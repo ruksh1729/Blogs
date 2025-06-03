@@ -8,7 +8,7 @@ function App() {
 
   const title = 'Welcome to the new blog';
   const likes = '50';
-  // const person = { name: 'yoshi', age:30 }; // cannot print the object, boolenas
+  // const person = { name: 'Ruksh', age:30 }; // cannot print the object, boolenas
   const link='https://www.google.com';
   return (
     <Router>
